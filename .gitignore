@@ -1,0 +1,10 @@
+target/
+data/
+.env
+*.log
+VERSION
+.DS_Store
+*.db
+*.db-wal
+*.db-shm
+dependency-reduced-pom.xml
